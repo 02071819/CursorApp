@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-app",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "pip install --no-cache-dir -r requirements.txt"
+  },
+  "engines": {
+    "node": "18.x",
+    "python": "3.9.0"
+  }
+} 
