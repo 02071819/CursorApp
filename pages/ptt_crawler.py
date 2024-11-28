@@ -565,7 +565,7 @@ def main():
     
     with col2:
         max_articles = st.number_input(
-            "最大爬取文章數 / Max Articles",
+            "最大爬取文章數(最多5000) / Max Articles",
             min_value=1,
             max_value=5000,
             value=100,
